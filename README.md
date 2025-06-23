@@ -54,6 +54,19 @@ CustomerChurnPrediction/
 
 ---
 
+## 📸 Screenshots
+
+Below are sample screenshots of the Churn Prediction application:
+
+- ![](images/output.png)
+- ![](images/output1.png)
+- ![](images/output2.png)
+- ![](images/output3.png)
+- ![](images/output4.png)
+- ![](images/output5.png)
+- ![](images/output5.png)
+
+
 ## ⚙️ How to Run Locally
 
 ```bash
@@ -74,17 +87,6 @@ python train_model.py
 
 # 5. Run the Streamlit app
 streamlit run app.py
-## 📸 Screenshots
-
-Below are sample screenshots of the Churn Prediction application:
-
-- ![](images/output.png)
-- ![](images/output1.png)
-- ![](images/output2.png)
-- ![](images/output3.png)
-- ![](images/output4.png)
-- ![](images/output5.png)
-- ![](images/output5.png)
 
 📚 Dataset Source
 📂 IBM Telco Customer Churn Dataset
