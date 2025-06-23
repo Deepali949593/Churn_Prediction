@@ -74,17 +74,17 @@ python train_model.py
 
 # 5. Run the Streamlit app
 streamlit run app.py
+## 📸 Screenshots
 
-📸 Screenshots
+Below are sample screenshots of the Churn Prediction application:
 
-![Output](https://github.com/user-attachments/assets/d551fa5d-e12e-446e-8664-09e31bebb53d)
-![Output1](https://github.com/user-attachments/assets/896bf0a3-0c41-4e53-8e7e-01946e2681bb)
-![Output2](https://github.com/user-attachments/assets/0c420840-57a0-4246-920e-fdd99485ac9c)
-![Output3](https://github.com/user-attachments/assets/37688d0e-40a2-48f3-91d5-00561a1c5e40)
-![Output4](https://github.com/user-attachments/assets/0be0c4f2-2172-42b3-8f42-bc4ac9e69f71)
-![Output5](https://github.com/user-attachments/assets/5da3b7a3-495b-4962-8509-1df356b3bb0a)
-![Output6](https://github.com/user-attachments/assets/0fe700d9-4ba7-4af2-a089-8b7be4897fc1)
-![Output7](https://github.com/user-attachments/assets/51c3b9e1-e40f-4c6f-aac3-bc93a5aec3ee)
+- ![](images/output.png)
+- ![](images/output1.png)
+- ![](images/output2.png)
+- ![](images/output3.png)
+- ![](images/output4.png)
+- ![](images/output5.png)
+- ![](images/output5.png)
 
 📚 Dataset Source
 📂 IBM Telco Customer Churn Dataset
