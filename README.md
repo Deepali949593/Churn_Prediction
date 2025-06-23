@@ -50,21 +50,6 @@ CustomerChurnPrediction/
 ├── .gitignore
 ├── README.md
 └── images/ # Screenshots used in README
-CustomerChurnPrediction/
-├── app.py # Main Streamlit application
-├── train_model.py # Script to train and export the ML model
-├── churn_model.pkl # Saved logistic regression model (Joblib file)
-├── requirements.txt # Python dependencies
-├── Telco-Customer-Churn.csv # Raw dataset (optional, often in .gitignore)
-├── .gitignore # Git ignore rules
-├── README.md # Project documentation (this file)
-├── images/ # Screenshots used in the README
-│ ├── output.png
-│ ├── output1.png
-│ ├── output2.png
-│ └── output3.png
-└── utils/ # Helper modules (optional)
-└── preprocessing.py # Data preprocessing functions (example)
 
 
 ---
