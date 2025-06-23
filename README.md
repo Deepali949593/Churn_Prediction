@@ -58,13 +58,19 @@ CustomerChurnPrediction/
 
 Below are sample screenshots of the Churn Prediction application:
 
-- ![](images/Output.png)
-- ![](images/Output1.png)
-- ![](images/Output2.png)
-- ![](images/Output3.png)
-- ![](images/Output4.png)
-- ![](images/Output5.png)
-- ![](images/Output5.png)
+ ![](images/Output.png)
+  
+ ![](images/Output1.png)
+  
+ ![](images/Output2.png)
+  
+ ![](images/Output3.png)
+  
+ ![](images/Output4.png)
+  
+ ![](images/Output5.png)
+  
+ ![](images/Output5.png)
 
 
 ## ⚙️ How to Run Locally
