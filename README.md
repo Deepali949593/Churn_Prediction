@@ -50,6 +50,21 @@ CustomerChurnPrediction/
 ├── .gitignore
 ├── README.md
 └── images/ # Screenshots used in README
+CustomerChurnPrediction/
+├── app.py # Main Streamlit application
+├── train_model.py # Script to train and export the ML model
+├── churn_model.pkl # Saved logistic regression model (Joblib file)
+├── requirements.txt # Python dependencies
+├── Telco-Customer-Churn.csv # Raw dataset (optional, often in .gitignore)
+├── .gitignore # Git ignore rules
+├── README.md # Project documentation (this file)
+├── images/ # Screenshots used in the README
+│ ├── output.png
+│ ├── output1.png
+│ ├── output2.png
+│ └── output3.png
+└── utils/ # Helper modules (optional)
+└── preprocessing.py # Data preprocessing functions (example)
 
 
 ---
@@ -88,12 +103,6 @@ streamlit run app.py
 
 📚 Dataset Source
 📂 IBM Telco Customer Churn Dataset
-
-👩‍💻 Developed By
-Praveena R
-🎓 MCA Student | AI & Data Enthusiast
-🔗 GitHub: https://github.com/Praveena23-2003
-🔗 LinkedIn: https://www.linkedin.com/in/praveena-r-5b733a237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 
