@@ -54,8 +54,6 @@ CustomerChurnPrediction/
 
 ---
 
-## 📸 Screenshots
-
 <h3>📸 Screenshots</h3>
 Below are sample screenshots of the Churn Prediction application:
 <img src="images/Output.png" width="400"/>
@@ -65,22 +63,6 @@ Below are sample screenshots of the Churn Prediction application:
 <img src="images/Output4.png" width="400"/>
 <img src="images/Output5.png" width="400"/>
 <img src="images/Output6.png" width="400"/>
-
-
-
- ![](images/Output.png)
-  
- ![](images/Output1.png)
-  
- ![](images/Output2.png)
-  
- ![](images/Output3.png)
-  
- ![](images/Output4.png)
-  
- ![](images/Output5.png)
-  
- ![](images/Output5.png)
 
 
 ## ⚙️ How to Run Locally
