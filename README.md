@@ -56,7 +56,17 @@ CustomerChurnPrediction/
 
 ## 📸 Screenshots
 
+<h3>📸 Screenshots</h3>
 Below are sample screenshots of the Churn Prediction application:
+<img src="images/Output.png" width="400"/>
+<img src="images/Output1.png" width="400"/>
+<img src="images/Output2.png" width="400"/>
+<img src="images/Output3.png" width="400"/>
+<img src="images/Output4.png" width="400"/>
+<img src="images/Output5.png" width="400"/>
+<img src="images/Output6.png" width="400"/>
+
+
 
  ![](images/Output.png)
   
